@@ -1,0 +1,9 @@
+.kayfman {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background: #1f1f1f;
+    overflow: hidden;
+  }
